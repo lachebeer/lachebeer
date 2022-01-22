@@ -16,4 +16,6 @@
 ![C++ (В обучении)](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=6296CC)
 
+![seira's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wetymov&layout=compact)
+
 ![end](https://github.com/wetymov/wetymov/blob/main/gachi-uvajenie.gif)

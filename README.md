@@ -1,8 +1,9 @@
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)
+![Pycharm](https://img.shields.io/badge/-PyCharm-090909?style=for-the-badge&logo=pycharm&logoColor=47C5FB)
+![VSC](https://img.shields.io/badge/-VSC-090909?style=for-the-badge&logo=visualstudiocode&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sqlite&logoColor=097CDB)
 ![C++ (В обучении)](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![Pascal](https://img.shields.io/badge/-Pascal-090909?style=for-the-badge&logoColor=6296CC)
 
 ### Follow Me:
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCeV4qbYoLkyWJjA6lc3aOsQ)

@@ -1,4 +1,4 @@
-[![Header](https://github.com/wetymov/wetymov/blob/master/header.png)](https://www.shpavda.com/)
+[![Header](https://github.com/wetymov/wetymov/blob/main/header.png)](https://www.shpavda.com/)
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=47C5FB)

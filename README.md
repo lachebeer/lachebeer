@@ -12,6 +12,7 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/wetyman)
 [![CodeForces](https://img.shields.io/badge/-Codeforces-090909?style=for-the-badge&logo=codeforces&logoColor=4F7DB3)](https://codeforces.com/profile/Wety)
 [![STEAM](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam&logoColor=4F7DB3)](https://steamcommunity.com/id/eBANutiy23/)
+[![STEAM](https://img.shields.io/badge/-Discord-090909?style=for-the-badge&logo=discord&logoColor=4F7DB3)](https://discord.gg/ECGthpK7Cb)
 ### In the plans:
 ![C++ (В обучении)](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=6296CC)

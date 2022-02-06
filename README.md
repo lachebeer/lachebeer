@@ -16,4 +16,6 @@
 
 ![seira's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wetymov&layout=compact)
 
+![codewars](https://www.codewars.com/users/wetymov/badges/large)
+
 ![end](https://github.com/wetymov/wetymov/blob/main/gachi-uvajenie.gif)

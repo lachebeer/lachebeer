@@ -20,4 +20,4 @@
 
 ![codewars](https://www.codewars.com/users/wetymov/badges/large)
 
-![end](https://github.com/wetymov/wetymov/blob/main/gachi-uvajenie.gif)
+![end](https://github.com/wetymov/wetymov/blob/main/gif.gif)

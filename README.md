@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/wetymov/wetymov/blob/main/anime-girl.gif" width="700"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=monosript&size=30&color=0BF700&center=true&vCenter=true&width=500&lines=+Python+and+C%23+developer;+3%2B+years+in+coding;Full-stack+web+developer" width="700"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/forgotten_en/">

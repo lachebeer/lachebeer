@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monosript&size=30&color=0BF700&center=true&vCenter=true&width=500&lines=+Python+and+C%23+developer;+3%2B+years+in+coding;Full-stack+web+developer" width="700"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=monosript&size=30&color=0BF700&center=true&vCenter=true&width=500&lines=+Python+and+C%23+developer;+3%2B+years+in+coding;Full-stack+web+developer;Always+learning!" width="700"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.instagram.com/forgotten_en/">
@@ -43,7 +43,7 @@
   <h1>My stats</h1>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=wetymov&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&border=2CFF0EFE"/>
 <div>
-  
+  ---
 <div id="header" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wetymov&layout=compact&theme=vision-friendly-dark" title="Photoshop" **alt="Photoshop"/>
 <div>

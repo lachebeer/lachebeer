@@ -12,15 +12,6 @@
 
 ---
 
-### :woman_technologist: About Me :
-- :telescope: I am a Python and C# developer.
-
-- :seedling: In my repositories you can see: Telegram bots and a game written in Unity.
-
-- :zap: In my free time, I sleep.
-
-
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=monosript&size=30&color=0BF700&center=true&vCenter=true&width=500&lines=+Python+and+C%23+developer;+3%2B+years+in+coding;Full-stack+web+developer;Always+learning!" width="700"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.instagram.com/forgotten_en/">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
   <a href="https://t.me/wetymov">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>

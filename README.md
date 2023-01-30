@@ -1,4 +1,8 @@
 
+
+### wetymov
+
+
 Property                 | Data  
 -------------------------|------
 Language / IDE           | [![Python Badge](https://img.shields.io/badge/-Visual%20Studio%20Code-90239C?style=flat&logo=Python&logoColor=white)](https://github.com/wetymov) [![C++ Badge](https://img.shields.io/badge/-Visual%20Studio-00599C?style=flat&logo=C%2B%2B&logoColor=white)](https://github.com/wetymov)

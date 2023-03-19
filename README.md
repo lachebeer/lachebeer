@@ -11,9 +11,4 @@ Tool / Framework         | [![Flask](https://img.shields.io/badge/-Flask-47848F?
 Computer                 | ![Windows](https://img.shields.io/badge/-Windows%2011-00599C?style=flat&logo=Windows&Color=white) [![Kali](https://img.shields.io/badge/-Kali%20Linux-00000F?style=flat&logo=kalilinux&Color=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Acer](https://img.shields.io/badge/-Aspire%207-036CB5?style=flat&logo=acer&Color=white)](https://www.acer.com/ru-ru/laptops/aspire/aspire-7-intel/pdp/NH.Q99ER.00K) ![spotify](https://img.shields.io/badge/-Spotify-00000F?style=flat&logo=spotify&Color=white) ![obsidian](https://img.shields.io/badge/-Obsidian-purple?style=flat&logo=obsidian) ![notepad++](https://img.shields.io/badge/-manjaro-000?style=flat&logo=manjaro) ![notepad++](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&link=https://t.me/pascal_abuser) 
 Platforms				 | ![notepad++](https://img.shields.io/badge/-Codeforces-white?style=flat&logo=codeforces&link=https://codeforces.com/profile/wety) ![notepad++](https://img.shields.io/badge/-Codewars-red?style=flat&logo=codewars&link=https://www.codewars.com/users/wetyloh) ![notepad++](https://img.shields.io/badge/-JDOODLE-yellow?style=flat&logo=JDoodle) 
 
--------
-![](https://www.codewars.com/users/wetymov/badges/large)
--------
-my site : https://wetymov.ru
-
 

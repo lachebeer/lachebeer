@@ -12,3 +12,4 @@ Computer                 | ![Windows](https://img.shields.io/badge/-Windows%2011
 Platforms				 | ![notepad++](https://img.shields.io/badge/-Codeforces-white?style=flat&logo=codeforces&link=https://codeforces.com/profile/wety) ![notepad++](https://img.shields.io/badge/-Codewars-red?style=flat&logo=codewars&link=https://www.codewars.com/users/wetyloh) ![notepad++](https://img.shields.io/badge/-JDOODLE-yellow?style=flat&logo=JDoodle) 
 
 
+![](https://codeforces-readme-stats.vercel.app/api/card?username=Wety)

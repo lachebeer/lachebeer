@@ -3,8 +3,6 @@
 ----
 ![](https://codeforces-readme-stats.vercel.app/api/card?username=Wety)
 ![](https://leetcard.jacoblin.cool/wetymov?theme=unicorn)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=wetymov)](https://git.io/streak-stats)
-
 
 |                                                      First tier                                                      | Experience |                                                      Second tier                                                       | Experience |
 |:--------------------------------------------------------------------------------------------------------------------:|:----------:|:----------------------------------------------------------------------------------------------------------------------:|:----------:|

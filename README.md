@@ -1,5 +1,6 @@
 ----
 ## Hi There, Welcome to my Github profile! 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wetymov&layout=compact&theme=transparent&hide_border=true&langs_count=10)
 ----
 Hi 👋 Typical usernames include wety or wetymov.
 

@@ -19,7 +19,7 @@ Hi 👋 Typical usernames include `wety` or `wetymov`.
 |:--------------------------------------------------------------------------------------------------------------------:|:----------:|:----------------------------:|:----------:|
 | <img style="width: 30px; height: 30px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" /> |  3 years   | Flask, FastAPI and others libraries |   1.5 year   |
 |  <img style="width: 30px; height: 30px" src="https://cdn-icons-png.flaticon.com/512/922/922699.png" alt="C++" />   |  2 year   |       HTML, CSS, JS(minimum level), UI/UX design       |  6 month   |                                                       
-|  <img style="width: 30px; height: 30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" />   |  7 month   |       Qt and others libraries       |  4 month   |
-|  <img style="width: 30px; height: 30px" src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" alt="C++" />   |  6 month   |          nullptr😳           |            |
+|  <img style="width: 30px; height: 30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" />   |  8 month   |       Qt and others libraries       |  4 month   |
+|  <img style="width: 30px; height: 30px" src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" alt="C++" />   |  7 month   |          nullptr😳           |            |
 
 <h2  align="center">💻 Check my repositories ⬇️ </h2>

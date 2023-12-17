@@ -11,7 +11,6 @@ Hi 👋 Typical usernames include `wety` or `wetymov`.
 
 👾 I have experience in solving problems on `codewars`, `leetcode`, `codeforces` sites.
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/wetymov?theme=nord&font=Arya&ext=heatmap)
 <h2  align="center">⬇️ My stack ⬇️ </h2>
 
 ---------
